@@ -1,0 +1,72 @@
+#Monster
+EntryId: 100
+Name: Small_Wolf
+Level: 1
+Diff: 1
+Health: 30
+min_dmg: 2
+max_dmg: 10
+Luck: 10
+Armor: 10
+Money_Drop: 50
+#EndMonster
+#Monster
+EntryId: 101
+Name: Black_Turcky
+Level: 2
+Diff: 2
+Health: 200
+min_dmg: 10
+max_dmg: 20
+Luck: 25
+Armor: 10
+Money_Drop: 100
+#EndMonster
+#Monster
+EntryId: 102
+Name: Wolf's_Boss
+Level: 3
+Diff: 2
+Health: 500
+min_dmg: 35
+max_dmg: 70
+Luck: 50
+Armor: 10
+Money_Drop: 1000
+#EndMonster
+#Moster
+EntryId: 103
+Name: BlackGeneral
+Level: 4
+Diff: 3
+Health: 1000
+Min_dmg: 105
+Max_dmg: 205
+Luck: 500
+Armor: 10
+Money_drop: 3000
+#EndMoster
+#Moster
+EntryId: 104
+Name: Faker
+Level: 5
+Diff: 3
+Health: 190
+Min_dmg: 1000
+Max_dmg: 10000
+Luck: 50000
+Armor: 90
+Money_drop: 9000000
+#EndMoster
+#Moster
+EntryId: 105
+Name: BigLava
+Level: 6
+Diff: 4
+Health: 10000
+Min_dmg: 20
+Max_dmg: 30000
+Luck: 3021
+Armor: 150
+Money_drop: 900000
+#EndMoster

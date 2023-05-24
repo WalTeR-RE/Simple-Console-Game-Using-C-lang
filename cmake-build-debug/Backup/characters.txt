@@ -1,0 +1,140 @@
+#Chr
+Id: 1
+Level: 3
+EXP: 0
+Min_dmg: 55
+Max_dmg: 1104
+Health: 5520
+Luck: 9936
+Armor: 121
+#EndChr
+#Chr
+Id: 2
+Level: 1
+EXP: 50
+Min_dmg: 5
+Max_dmg: 10
+Health: 100
+Luck: 90
+Armor: 100
+#EndChr
+#Chr
+Id: 3
+Level: 10
+EXP: 50
+Min_dmg: 3
+Max_dmg: 31
+Health: 92
+Luck: 50
+Armor: 15
+#EndChr
+#Chr
+Id: 4
+Level: 75
+EXP: 50
+Min_dmg: 20
+Max_dmg: 800
+Health: 4000
+Luck: 6000
+Armor: 27
+#EndChr
+#Chr
+Id: 5
+Level: 30
+EXP: 50
+Min_dmg: 10
+Max_dmg: 500
+Health: 3000
+Luck: 4000
+Armor: 8
+#EndChr
+#Chr
+Id: 6
+Level: 5
+EXP: 50
+Min_dmg: 1
+Max_dmg: 20
+Health: 50
+Luck: 20
+Armor: 3
+#EndChr
+#Chr
+Id: 7
+Level: 40
+EXP: 50
+Min_dmg: 15
+Max_dmg: 600
+Health: 3500
+Luck: 4000
+Armor: 29
+#EndChr
+#Chr
+Id: 8
+Level: 20
+EXP: 50
+Min_dmg: 7
+Max_dmg: 200
+Health: 2000
+Luck: 2000
+Armor: 18
+#EndChr
+#Chr
+Id: 9
+Level: 50
+EXP: 50
+Min_dmg: 30
+Max_dmg: 900
+Health: 4500
+Luck: 5000
+Armor: 6
+#EndChr
+#Chr
+Id: 10
+Level: 1
+EXP: 50
+Min_dmg: 2
+Max_dmg: 5
+Health: 100
+Luck: 5
+Armor: 11
+#EndChr
+#Chr
+Id: 11
+Level: 1
+EXP: 50
+Min_dmg: 2
+Max_dmg: 5
+Health: 100
+Luck: 5
+Armor: 25
+#EndChr
+#Chr
+Id: 12
+Level: 1
+EXP: 0
+Min_dmg: 2
+Max_dmg: 5
+Health: 110
+Luck: 5
+Armor: 1
+#EndChr
+#Chr
+Id: 13
+Level: 1
+EXP: 0
+Min_dmg: 2
+Max_dmg: 5
+Health: 100
+Luck: 5
+Armor: 1
+#EndChr
+#Chr
+Id: 14
+Level: 1
+EXP: 0
+Min_dmg: 2
+Max_dmg: 5
+Health: 100
+Luck: 5
+Armor: 1
+#EndChr

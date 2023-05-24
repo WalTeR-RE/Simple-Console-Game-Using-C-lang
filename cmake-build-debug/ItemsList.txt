@@ -1,0 +1,25 @@
+#Item
+ItemId: 1
+ItemName: Increase_MinDmg
+Price: 250
+#EndItem
+#Item
+ItemId: 2
+ItemName: Increase_MaxDmg
+Price: 400
+#EndItem
+#Item
+ItemId: 3
+ItemName: Increase_Health
+Price: 500
+#EndItem
+#Item
+ItemId: 4
+ItemName: Increase_Luck
+Price: 300
+#EndItem
+#Item
+ItemId: 5
+ItemName: Increase_Armor
+Price: 400
+#EndItem

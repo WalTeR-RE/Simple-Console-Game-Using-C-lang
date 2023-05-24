@@ -1,0 +1,204 @@
+#Monster
+EntryId: 100
+Name: Small_Wolf
+Level: 1
+Diff: 1
+Health: 60
+min_dmg: 5
+max_dmg: 12
+Luck: 10
+Armor: 10
+Money_Drop: 60
+#EndMonster
+#Monster
+EntryId: 101
+Name: Black_turky
+Level: 2
+Diff: 1
+Health: 80
+min_dmg: 7
+max_dmg: 14
+Luck: 12
+Armor: 12
+Money_Drop: 80
+#EndMonster
+#Monster
+EntryId: 102
+Name: Wolf's_boss
+Level: 3
+Diff: 1
+Health: 100
+min_dmg: 9
+max_dmg: 16
+Luck: 14
+Armor: 14
+Money_Drop: 100
+#EndMonster
+#Monster
+EntryId: 103
+Name: Black_general
+Level: 4
+Diff: 1
+Health: 120
+min_dmg: 11
+max_dmg: 18
+Luck: 16
+Armor: 16
+Money_Drop: 120
+#EndMonster
+#Monster
+EntryId: 104
+Name: Faker
+Level: 5
+Diff: 2
+Health: 140
+min_dmg: 13
+max_dmg: 20
+Luck: 18
+Armor: 18
+Money_Drop: 140
+#EndMonster
+#Monster
+EntryId: 105
+Name: medusa
+Level: 6
+Diff: 2
+Health: 200
+min_dmg: 15
+max_dmg: 22
+Luck: 20
+Armor: 20
+Money_Drop: 160
+#EndMonster
+#Monster
+EntryId: 106
+Name: captin_baggy
+Level: 7
+Diff: 2
+Health: 220
+min_dmg: 17
+max_dmg: 24
+Luck: 22
+Armor: 20
+Money_Drop: 180
+#EndMonster
+#Monster
+EntryId: 107
+Name: Iron_Golem
+Level: 8
+Diff: 2
+Health: 240
+min_dmg: 19
+max_dmg: 26
+Luck: 24
+Armor: 22
+Money_Drop: 200
+#EndMonster
+#Monster
+EntryId: 108
+Name: Furries
+Level: 9
+Diff: 2
+Health: 260
+min_dmg: 21
+max_dmg: 28
+Luck: 26
+Armor: 22
+Money_Drop: 220
+#EndMonster
+#Monster
+EntryId: 109
+Name: Lucifer
+Level: 10
+Diff: 2
+Health: 280
+min_dmg: 23
+max_dmg: 30
+Luck: 28
+Armor: 24
+Money_Drop: 240
+#EndMonster
+#Monster
+EntryId: 110
+Name: Souls_hunter
+Level: 11
+Diff: 3
+Health: 500
+min_dmg: 25
+max_dmg: 32
+Luck: 30
+Armor: 26
+Money_Drop: 500
+#EndMonster
+#Monster
+EntryId: 111
+Name: Thunder_bolt
+Level: 12
+Diff: 3
+Health: 600
+min_dmg: 28
+max_dmg: 36
+Luck: 32
+Armor: 28
+Money_Drop: 600
+#EndMonster
+#Monster
+EntryId: 112
+Name: Lilith 
+Level: 13
+Diff: 3
+Health: 700
+min_dmg: 31
+max_dmg: 40
+Luck: 34
+Armor: 30
+Money_Drop: 700
+#EndMonster
+#Monster
+EntryId: 113
+Name: Shadow_Assassin
+Level: 14
+Diff: 3
+Health: 800
+min_dmg: 34
+max_dmg: 44
+Luck: 36
+Armor: 32
+Money_Drop: 800
+#EndMonster
+#Monster
+EntryId: 114
+Name: Hell_bringer
+Level: 15
+Diff: 4
+Health: 900
+min_dmg: 37
+max_dmg: 48
+Luck: 38
+Armor: 34
+Money_Drop: 900
+#EndMonster
+#Monster
+EntryId: 115
+Name: Trauma
+Level: 16
+Diff: 4
+Health: 1000
+min_dmg: 40
+max_dmg: 52
+Luck: 40
+Armor: 36
+Money_Drop: 1000
+#EndMonster
+#Monster
+EntryId: 116
+Name: Dead_end
+Level: 17
+Diff: 4
+Health: 1100
+min_dmg: 43
+max_dmg: 56
+Luck: 42
+Armor: 38
+Money_Drop: 1100
+#EndMonster

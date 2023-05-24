@@ -1,0 +1,8 @@
+1 osama 123 Owner 1 617502
+2 Player player Player 1 50
+3 player2 player2 Player 1 110
+4 p1 p1 Player 1 375
+5 shipet shipet Player 1 210
+6 p5 p5 Player 1 120
+7 Osama 123 Player 1 175
+8 ossama 2004 Player 1 115
