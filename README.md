@@ -20,7 +20,7 @@ Simple Console Game using C lang
 7- Status System
 
 
-#To-Do
+# To-Do
 
 Adding auto update system
 
